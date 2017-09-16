@@ -6,3 +6,5 @@ This repository contains some notebooks which document my efforts to learn about
 
 * [tf-multilayer-perceptron.ipynb](tf-multilayer-perceptron.ipynb) - Demonstrates construction of a two layer perceptron with an arbitrary number of inputs and outputs. The model is then applied to a few datasets and the behaviour is visualised.
 
+* [tf-kmeans.ipynb](tf-kmeans.ipynb) - Performs $k$-means clustering on two and three dimensional datasets in tensorflow.
+
