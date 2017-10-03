@@ -8,3 +8,4 @@ This repository contains some notebooks which document my efforts to learn about
 
 * [tf-kmeans.ipynb](tf-kmeans.ipynb) - Performs k-means clustering on two and three dimensional datasets in tensorflow.
 
+* [tf-SOM.ipynb](tf-SOM.ipynb) - Implements a [self-organising map](https://en.wikipedia.org/wiki/Self-organizing_map) on the [iris dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set)
